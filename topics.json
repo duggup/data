@@ -3,5 +3,10 @@
         "id": "Information-Retrieval",
         "name": "Information Retrieval",
         "parent": ""
+    },
+    {
+        "id": "Algorithms",
+        "name": "Algorithms",
+        "parent": ""
     }
 ]
