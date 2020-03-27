@@ -8,5 +8,10 @@
         "id": "cryptography",
         "name": "Cryptography",
         "parent": ""
+    },
+    {
+        "id": "python",
+        "name": "Python",
+        "parent": "languages"
     }
 ]
