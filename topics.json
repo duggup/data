@@ -3,5 +3,10 @@
         "id": "languages",
         "name": "Languages",
         "parent": ""
+    },
+    {
+        "id": "cryptography",
+        "name": "Cryptography",
+        "parent": ""
     }
 ]
