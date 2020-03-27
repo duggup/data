@@ -63,5 +63,18 @@
             "algorithms"
         ],
         "published_time": "2020-02-14T00:00:00.000Z"
+    },
+    {
+        "id": "understanding-inverse-document-frequency",
+        "title": "Understanding Inverse Document Frequency",
+        "description": "TF-IDF is extensively used in search engines and in various document classification and clustering techniques. Instead of taking the formula by the word, we take a detour and dive deep into the better half of it and find its connection with Probability, the role it plays in document relevance and the intuition behind it.",
+        "img": "https://user-images.githubusercontent.com/4745789/76207579-10e4db80-6224-11ea-91ba-b67359125156.png",
+        "authors": [
+            "arpit_bhayani"
+        ],
+        "topics": [
+            "data-mining"
+        ],
+        "published_time": "2020-03-06T00:00:00.000Z"
     }
 ]
