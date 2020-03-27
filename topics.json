@@ -13,5 +13,10 @@
         "id": "python",
         "name": "Python",
         "parent": "languages"
+    },
+    {
+        "id": "steganography",
+        "name": "Steganography",
+        "parent": "cryptography"
     }
 ]
