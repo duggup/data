@@ -23,5 +23,10 @@
         "id": "algorithms",
         "name": "Algorithms",
         "parent": ""
+    },
+    {
+        "id": "data-mining",
+        "name": "Data Mining",
+        "parent": ""
     }
 ]
