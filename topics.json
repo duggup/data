@@ -18,5 +18,10 @@
         "id": "steganography",
         "name": "Steganography",
         "parent": "cryptography"
+    },
+    {
+        "id": "algorithms",
+        "name": "Algorithms",
+        "parent": ""
     }
 ]
