@@ -8,5 +8,10 @@
         "id": "Algorithms",
         "name": "Algorithms",
         "parent": ""
+    },
+    {
+        "id": "Languages",
+        "name": "Languages",
+        "parent": ""
     }
 ]
