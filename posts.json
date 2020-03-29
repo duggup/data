@@ -6,10 +6,20 @@
         "img": "https://user-images.githubusercontent.com/4745789/72040055-55f49c00-32cd-11ea-9190-8f5a67c2f3d9.png",
         "gif": "https://media.giphy.com/media/SKGo6OYe24EBG/giphy.gif",
         "authors": [
-            "arpit_bhayani"
+            {
+                "id": "arpit_bhayani",
+                "twitter_handle": "arpit_bhayani",
+                "name": "Arpit Bhayani",
+                "bio": "I take products from zero to one and beyond. Loves Engineering, Mathematics and Physics.",
+                "profile_img": "https://user-images.githubusercontent.com/4745789/77757123-a2db4980-7056-11ea-82d7-ce023364bf21.jpg"
+            }
         ],
         "topics": [
-            "python"
+            {
+                "id": "python",
+                "name": "Python",
+                "parent": "languages"
+            }
         ],
         "published_time": "2020-01-10T00:00:00.000Z"
     },
@@ -20,10 +30,20 @@
         "img": "https://user-images.githubusercontent.com/4745789/72659471-2a1c9900-39e6-11ea-9b93-c11bf3eefc43.png",
         "gif": "https://media.giphy.com/media/V1NxC1YoNEHBe/giphy.gif",
         "authors": [
-            "arpit_bhayani"
+            {
+                "id": "arpit_bhayani",
+                "twitter_handle": "arpit_bhayani",
+                "name": "Arpit Bhayani",
+                "bio": "I take products from zero to one and beyond. Loves Engineering, Mathematics and Physics.",
+                "profile_img": "https://user-images.githubusercontent.com/4745789/77757123-a2db4980-7056-11ea-82d7-ce023364bf21.jpg"
+            }
         ],
         "topics": [
-            "steganography"
+            {
+                "id": "steganography",
+                "name": "Steganography",
+                "parent": "cryptography"
+            }
         ],
         "published_time": "2020-01-17T00:00:00.000Z"
     },
@@ -33,11 +53,21 @@
         "description": "Anomaly detection is an age-old problem and in this article, we dive deep into an unsupervised algorithm, Isolation Forest, that beautifully exploits the characteristics of anomalies. Instead of profiling normal points and labeling others as anomalies, the algorithm is actually is tuned to detect anomalies.",
         "img": "https://user-images.githubusercontent.com/4745789/73280907-34743980-4215-11ea-89f0-eac4a71df6e5.png",
         "authors": [
-            "arpit_bhayani"
+            {
+                "id": "arpit_bhayani",
+                "twitter_handle": "arpit_bhayani",
+                "name": "Arpit Bhayani",
+                "bio": "I take products from zero to one and beyond. Loves Engineering, Mathematics and Physics.",
+                "profile_img": "https://user-images.githubusercontent.com/4745789/77757123-a2db4980-7056-11ea-82d7-ce023364bf21.jpg"
+            }
         ],
         "gif": "https://media.giphy.com/media/xGdvlOVSWaDvi/giphy.gif",
         "topics": [
-            "algorithms"
+            {
+                "id": "algorithms",
+                "name": "Algorithms",
+                "parent": ""
+            }
         ],
         "published_time": "2020-01-28T00:00:00.000Z"
     },
@@ -48,10 +78,20 @@
         "img": "https://user-images.githubusercontent.com/4745789/73909201-04423000-48d2-11ea-8bd0-d7c25f6435c1.png",
         "gif": "https://media.giphy.com/media/WtCHRSPCuqS8E/giphy.gif",
         "authors": [
-            "arpit_bhayani"
+            {
+                "id": "arpit_bhayani",
+                "twitter_handle": "arpit_bhayani",
+                "name": "Arpit Bhayani",
+                "bio": "I take products from zero to one and beyond. Loves Engineering, Mathematics and Physics.",
+                "profile_img": "https://user-images.githubusercontent.com/4745789/77757123-a2db4980-7056-11ea-82d7-ce023364bf21.jpg"
+            }
         ],
         "topics": [
-            "python"
+            {
+                "id": "python",
+                "name": "Python",
+                "parent": "languages"
+            }
         ],
         "published_time": "2020-02-07T00:00:00.000Z"
     },
@@ -62,10 +102,20 @@
         "img": "https://user-images.githubusercontent.com/4745789/74463952-b07aac80-4eb8-11ea-8d8e-6f286767ec7e.png",
         "gif": "https://media.giphy.com/media/26uflDxU6cEhrhmUg/giphy.gif",
         "authors": [
-            "arpit_bhayani"
+            {
+                "id": "arpit_bhayani",
+                "twitter_handle": "arpit_bhayani",
+                "name": "Arpit Bhayani",
+                "bio": "I take products from zero to one and beyond. Loves Engineering, Mathematics and Physics.",
+                "profile_img": "https://user-images.githubusercontent.com/4745789/77757123-a2db4980-7056-11ea-82d7-ce023364bf21.jpg"
+            }
         ],
         "topics": [
-            "algorithms"
+            {
+                "id": "algorithms",
+                "name": "Algorithms",
+                "parent": ""
+            }
         ],
         "published_time": "2020-02-14T00:00:00.000Z"
     },
@@ -76,10 +126,20 @@
         "img": "https://user-images.githubusercontent.com/4745789/76207579-10e4db80-6224-11ea-91ba-b67359125156.png",
         "gif": "https://media.giphy.com/media/3ornjWIRSzXEw61KH6/giphy.gif",
         "authors": [
-            "arpit_bhayani"
+            {
+                "id": "arpit_bhayani",
+                "twitter_handle": "arpit_bhayani",
+                "name": "Arpit Bhayani",
+                "bio": "I take products from zero to one and beyond. Loves Engineering, Mathematics and Physics.",
+                "profile_img": "https://user-images.githubusercontent.com/4745789/77757123-a2db4980-7056-11ea-82d7-ce023364bf21.jpg"
+            }
         ],
         "topics": [
-            "data-mining"
+            {
+                "id": "data-mining",
+                "name": "Data Mining",
+                "parent": ""
+            }
         ],
         "published_time": "2020-03-06T00:00:00.000Z"
     }
