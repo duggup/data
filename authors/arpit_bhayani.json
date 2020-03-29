@@ -1,148 +1,154 @@
 {
     "posts": [
-    {
-        "id": "understanding-inverse-document-frequency",
-        "title": "Understanding Inverse Document Frequency",
-        "description": "TF-IDF is extensively used in search engines and in various document classification and clustering techniques. Instead of taking the formula by the word, we take a detour and dive deep into the better half of it and find its connection with Probability, the role it plays in document relevance and the intuition behind it.",
-        "cover": "https://user-images.githubusercontent.com/4745789/76207579-10e4db80-6224-11ea-91ba-b67359125156.png",
-        "gif": "https://media.giphy.com/media/3ornjWIRSzXEw61KH6/giphy.gif",
-        "authors": [
-            {
-                "id": "arpit_bhayani",
-                "twitter_handle": "arpit_bhayani",
-                "name": "Arpit Bhayani",
-                "bio": "I take products from zero to one and beyond. Loves Engineering, Mathematics and Physics.",
-                "profile_img": "https://user-images.githubusercontent.com/4745789/77757123-a2db4980-7056-11ea-82d7-ce023364bf21.jpg"
-            }
-        ],
-        "topics": [
-            {
-                "id": "data-mining",
-                "name": "Data Mining",
-                "parent": ""
-            }
-        ],
-        "published_time": "2020-03-06T00:00:00.000Z"
-    },
-    {
-        "id": "pseudorandom-numbers-using-cellular-automata-rule-30",
-        "title": "Pseudorandom numbers using Cellular Automata - Rule 30",
-        "description": "Generating pseudorandom numbers is an interesting problem in Computer Science. In this article, we dive deep into an algorithm for generating pseudorandom numbers using Rule 30 of Cellular Automaton.",
-        "cover": "https://user-images.githubusercontent.com/4745789/74463952-b07aac80-4eb8-11ea-8d8e-6f286767ec7e.png",
-        "gif": "https://media.giphy.com/media/26uflDxU6cEhrhmUg/giphy.gif",
-        "authors": [
-            {
-                "id": "arpit_bhayani",
-                "twitter_handle": "arpit_bhayani",
-                "name": "Arpit Bhayani",
-                "bio": "I take products from zero to one and beyond. Loves Engineering, Mathematics and Physics.",
-                "profile_img": "https://user-images.githubusercontent.com/4745789/77757123-a2db4980-7056-11ea-82d7-ce023364bf21.jpg"
-            }
-        ],
-        "topics": [
-            {
-                "id": "algorithms",
-                "name": "Algorithms",
-                "parent": ""
-            }
-        ],
-        "published_time": "2020-02-14T00:00:00.000Z"
-    },
-    {
-        "id": "implemeting-function-overloading-in-python",
-        "title": "Implemeting function overloading in Python",
-        "description": "Python natively does not support function overloading - having multiple functions with the same name. Today we see how we can implement and add this functionality to Python by using common language constructs like decorators and dictionaries.",
-        "cover": "https://user-images.githubusercontent.com/4745789/73909201-04423000-48d2-11ea-8bd0-d7c25f6435c1.png",
-        "gif": "https://media.giphy.com/media/WtCHRSPCuqS8E/giphy.gif",
-        "authors": [
-            {
-                "id": "arpit_bhayani",
-                "twitter_handle": "arpit_bhayani",
-                "name": "Arpit Bhayani",
-                "bio": "I take products from zero to one and beyond. Loves Engineering, Mathematics and Physics.",
-                "profile_img": "https://user-images.githubusercontent.com/4745789/77757123-a2db4980-7056-11ea-82d7-ce023364bf21.jpg"
-            }
-        ],
-        "topics": [
-            {
-                "id": "python",
-                "name": "Python",
-                "parent": "languages"
-            }
-        ],
-        "published_time": "2020-02-07T00:00:00.000Z"
-    },
-    {
-        "id": "isolation-forest-algorithm-for-anomaly-detection",
-        "title": "Isolation Forest algorithm for anomaly detection",
-        "description": "Anomaly detection is an age-old problem and in this article, we dive deep into an unsupervised algorithm, Isolation Forest, that beautifully exploits the characteristics of anomalies. Instead of profiling normal points and labeling others as anomalies, the algorithm is actually is tuned to detect anomalies.",
-        "cover": "https://user-images.githubusercontent.com/4745789/73280907-34743980-4215-11ea-89f0-eac4a71df6e5.png",
-        "authors": [
-            {
-                "id": "arpit_bhayani",
-                "twitter_handle": "arpit_bhayani",
-                "name": "Arpit Bhayani",
-                "bio": "I take products from zero to one and beyond. Loves Engineering, Mathematics and Physics.",
-                "profile_img": "https://user-images.githubusercontent.com/4745789/77757123-a2db4980-7056-11ea-82d7-ce023364bf21.jpg"
-            }
-        ],
-        "gif": "https://media.giphy.com/media/xGdvlOVSWaDvi/giphy.gif",
-        "topics": [
-            {
-                "id": "algorithms",
-                "name": "Algorithms",
-                "parent": ""
-            }
-        ],
-        "published_time": "2020-01-28T00:00:00.000Z"
-    },
-    {
-        "id": "everything-that-you-need-to-know-about-image-steganography",
-        "title": "Everything that you need to know about Image Steganography",
-        "description": "Steganography has been around since at least 440 BCE but with the rise of computers, the techniques have evolved to handle digital data. In this article, we see the science behind image steganography, how it exploits various properties of images to hide secrets and walkthrough a few techniques in detail.",
-        "cover": "https://user-images.githubusercontent.com/4745789/72659471-2a1c9900-39e6-11ea-9b93-c11bf3eefc43.png",
-        "gif": "https://media.giphy.com/media/V1NxC1YoNEHBe/giphy.gif",
-        "authors": [
-            {
-                "id": "arpit_bhayani",
-                "twitter_handle": "arpit_bhayani",
-                "name": "Arpit Bhayani",
-                "bio": "I take products from zero to one and beyond. Loves Engineering, Mathematics and Physics.",
-                "profile_img": "https://user-images.githubusercontent.com/4745789/77757123-a2db4980-7056-11ea-82d7-ce023364bf21.jpg"
-            }
-        ],
-        "topics": [
-            {
-                "id": "steganography",
-                "name": "Steganography",
-                "parent": "cryptography"
-            }
-        ],
-        "published_time": "2020-01-17T00:00:00.000Z"
-    },
-    {
-        "id": "how-python-implements-super-long-integers",
-        "title": "How python implements super long integers?",
-        "description": "Python must be doing something beautiful internally to support super long integers and today we find out what's under the hood. The article goes in-depth to explain design, storage, and operations on super long integers as implemented by Python.",
-        "cover": "https://user-images.githubusercontent.com/4745789/72040055-55f49c00-32cd-11ea-9190-8f5a67c2f3d9.png",
-        "gif": "https://media.giphy.com/media/SKGo6OYe24EBG/giphy.gif",
-        "authors": [
-            {
-                "id": "arpit_bhayani",
-                "twitter_handle": "arpit_bhayani",
-                "name": "Arpit Bhayani",
-                "bio": "I take products from zero to one and beyond. Loves Engineering, Mathematics and Physics.",
-                "profile_img": "https://user-images.githubusercontent.com/4745789/77757123-a2db4980-7056-11ea-82d7-ce023364bf21.jpg"
-            }
-        ],
-        "topics": [
-            {
-                "id": "python",
-                "name": "Python",
-                "parent": "languages"
-            }
-        ],
-        "published_time": "2020-01-10T00:00:00.000Z"
-    }
+        {
+            "id": "understanding-inverse-document-frequency",
+            "title": "Understanding Inverse Document Frequency",
+            "description": "TF-IDF is extensively used in search engines and in various document classification and clustering techniques. Instead of taking the formula by the word, we take a detour and dive deep into the better half of it and find its connection with Probability, the role it plays in document relevance and the intuition behind it.",
+            "cover": "https://user-images.githubusercontent.com/4745789/77845445-a42e8280-71cc-11ea-94f0-ef3c792fa440.png",
+            "gif": "https://media.giphy.com/media/3ornjWIRSzXEw61KH6/giphy.gif",
+            "authors": [
+                {
+                    "id": "arpit_bhayani",
+                    "twitter_handle": "arpit_bhayani",
+                    "name": "Arpit Bhayani",
+                    "bio": "Founder @Duggup and a Polymath | Writes about Language internals and Math in Computer Science",
+                    "profile_img": "https://user-images.githubusercontent.com/4745789/77757123-a2db4980-7056-11ea-82d7-ce023364bf21.jpg",
+                    "cover": "https://user-images.githubusercontent.com/4745789/77845426-819c6980-71cc-11ea-9cbf-2dc1e57371e8.png"
+                }
+            ],
+            "topics": [
+                {
+                    "id": "data-mining",
+                    "name": "Data Mining",
+                    "parent": ""
+                }
+            ],
+            "published_time": "2020-03-06T00:00:00.000Z"
+        },
+        {
+            "id": "pseudorandom-numbers-using-cellular-automata-rule-30",
+            "title": "Pseudorandom numbers using Cellular Automata - Rule 30",
+            "description": "Generating pseudorandom numbers is an interesting problem in Computer Science. In this article, we dive deep into an algorithm for generating pseudorandom numbers using Rule 30 of Cellular Automaton.",
+            "cover": "https://user-images.githubusercontent.com/4745789/77845469-d5a74e00-71cc-11ea-80e3-aae6b02d54e0.png",
+            "gif": "https://media.giphy.com/media/26uflDxU6cEhrhmUg/giphy.gif",
+            "authors": [
+                {
+                    "id": "arpit_bhayani",
+                    "twitter_handle": "arpit_bhayani",
+                    "name": "Arpit Bhayani",
+                    "bio": "Founder @Duggup and a Polymath | Writes about Language internals and Math in Computer Science",
+                    "profile_img": "https://user-images.githubusercontent.com/4745789/77757123-a2db4980-7056-11ea-82d7-ce023364bf21.jpg",
+                    "cover": "https://user-images.githubusercontent.com/4745789/77845426-819c6980-71cc-11ea-9cbf-2dc1e57371e8.png"
+                }
+            ],
+            "topics": [
+                {
+                    "id": "algorithms",
+                    "name": "Algorithms",
+                    "parent": ""
+                }
+            ],
+            "published_time": "2020-02-14T00:00:00.000Z"
+        },
+        {
+            "id": "implemeting-function-overloading-in-python",
+            "title": "Implemeting function overloading in Python",
+            "description": "Python natively does not support function overloading - having multiple functions with the same name. Today we see how we can implement and add this functionality to Python by using common language constructs like decorators and dictionaries.",
+            "cover": "https://user-images.githubusercontent.com/4745789/77845505-07201980-71cd-11ea-9d27-44094218741f.png",
+            "gif": "https://media.giphy.com/media/WtCHRSPCuqS8E/giphy.gif",
+            "authors": [
+                {
+                    "id": "arpit_bhayani",
+                    "twitter_handle": "arpit_bhayani",
+                    "name": "Arpit Bhayani",
+                    "bio": "Founder @Duggup and a Polymath | Writes about Language internals and Math in Computer Science",
+                    "profile_img": "https://user-images.githubusercontent.com/4745789/77757123-a2db4980-7056-11ea-82d7-ce023364bf21.jpg",
+                    "cover": "https://user-images.githubusercontent.com/4745789/77845426-819c6980-71cc-11ea-9cbf-2dc1e57371e8.png"
+                }
+            ],
+            "topics": [
+                {
+                    "id": "python",
+                    "name": "Python",
+                    "parent": "languages"
+                }
+            ],
+            "published_time": "2020-02-07T00:00:00.000Z"
+        },
+        {
+            "id": "isolation-forest-algorithm-for-anomaly-detection",
+            "title": "Isolation Forest algorithm for anomaly detection",
+            "description": "Anomaly detection is an age-old problem and in this article, we dive deep into an unsupervised algorithm, Isolation Forest, that beautifully exploits the characteristics of anomalies. Instead of profiling normal points and labeling others as anomalies, the algorithm is actually is tuned to detect anomalies.",
+            "cover": "https://user-images.githubusercontent.com/4745789/77845518-2159f780-71cd-11ea-9b0e-57cd451da3b8.png",
+            "authors": [
+                {
+                    "id": "arpit_bhayani",
+                    "twitter_handle": "arpit_bhayani",
+                    "name": "Arpit Bhayani",
+                    "bio": "Founder @Duggup and a Polymath | Writes about Language internals and Math in Computer Science",
+                    "profile_img": "https://user-images.githubusercontent.com/4745789/77757123-a2db4980-7056-11ea-82d7-ce023364bf21.jpg",
+                    "cover": "https://user-images.githubusercontent.com/4745789/77845426-819c6980-71cc-11ea-9cbf-2dc1e57371e8.png"
+                }
+            ],
+            "gif": "https://media.giphy.com/media/xGdvlOVSWaDvi/giphy.gif",
+            "topics": [
+                {
+                    "id": "algorithms",
+                    "name": "Algorithms",
+                    "parent": ""
+                }
+            ],
+            "published_time": "2020-01-28T00:00:00.000Z"
+        },
+        {
+            "id": "everything-that-you-need-to-know-about-image-steganography",
+            "title": "Everything that you need to know about Image Steganography",
+            "description": "Steganography has been around since at least 440 BCE but with the rise of computers, the techniques have evolved to handle digital data. In this article, we see the science behind image steganography, how it exploits various properties of images to hide secrets and walkthrough a few techniques in detail.",
+            "cover": "https://user-images.githubusercontent.com/4745789/77845538-40588980-71cd-11ea-856e-f544ca2ec9ec.png",
+            "gif": "https://media.giphy.com/media/V1NxC1YoNEHBe/giphy.gif",
+            "authors": [
+                {
+                    "id": "arpit_bhayani",
+                    "twitter_handle": "arpit_bhayani",
+                    "name": "Arpit Bhayani",
+                    "bio": "Founder @Duggup and a Polymath | Writes about Language internals and Math in Computer Science",
+                    "profile_img": "https://user-images.githubusercontent.com/4745789/77757123-a2db4980-7056-11ea-82d7-ce023364bf21.jpg",
+                    "cover": "https://user-images.githubusercontent.com/4745789/77845426-819c6980-71cc-11ea-9cbf-2dc1e57371e8.png"
+                }
+            ],
+            "topics": [
+                {
+                    "id": "steganography",
+                    "name": "Steganography",
+                    "parent": "cryptography"
+                }
+            ],
+            "published_time": "2020-01-17T00:00:00.000Z"
+        },
+        {
+            "id": "how-python-implements-super-long-integers",
+            "title": "How python implements super long integers?",
+            "description": "Python must be doing something beautiful internally to support super long integers and today we find out what's under the hood. The article goes in-depth to explain design, storage, and operations on super long integers as implemented by Python.",
+            "cover": "https://user-images.githubusercontent.com/4745789/77845551-5d8d5800-71cd-11ea-8ab0-cd4b0c3239cb.png",
+            "gif": "https://media.giphy.com/media/SKGo6OYe24EBG/giphy.gif",
+            "authors": [
+                {
+                    "id": "arpit_bhayani",
+                    "twitter_handle": "arpit_bhayani",
+                    "name": "Arpit Bhayani",
+                    "bio": "Founder @Duggup and a Polymath | Writes about Language internals and Math in Computer Science",
+                    "profile_img": "https://user-images.githubusercontent.com/4745789/77757123-a2db4980-7056-11ea-82d7-ce023364bf21.jpg",
+                    "cover": "https://user-images.githubusercontent.com/4745789/77845426-819c6980-71cc-11ea-9cbf-2dc1e57371e8.png"
+                }
+            ],
+            "topics": [
+                {
+                    "id": "python",
+                    "name": "Python",
+                    "parent": "languages"
+                }
+            ],
+            "published_time": "2020-01-10T00:00:00.000Z"
+        }
     ]
 }
