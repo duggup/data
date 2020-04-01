@@ -1,0 +1,54 @@
+{
+    "posts": [
+        {
+            "id": "implemeting-function-overloading-in-python",
+            "title": "Implemeting function overloading in Python",
+            "description": "Python natively does not support function overloading - having multiple functions with the same name. Today we see how we can implement and add this functionality to Python by using common language constructs like decorators and dictionaries.",
+            "cover": "https://user-images.githubusercontent.com/4745789/77845505-07201980-71cd-11ea-9d27-44094218741f.png",
+            "gif": "https://media.giphy.com/media/WtCHRSPCuqS8E/giphy.gif",
+            "authors": [
+                {
+                    "id": "arpit_bhayani",
+                    "twitter_handle": "arpit_bhayani",
+                    "name": "Arpit Bhayani",
+                    "bio": "Founder @Duggup and a Polymath | Writes about Language internals and Math in Computer Science",
+                    "profile_img": "https://user-images.githubusercontent.com/4745789/77757123-a2db4980-7056-11ea-82d7-ce023364bf21.jpg",
+                    "cover": "https://user-images.githubusercontent.com/4745789/77845426-819c6980-71cc-11ea-9cbf-2dc1e57371e8.png"
+                }
+            ],
+            "topics": [
+                {
+                    "id": "python",
+                    "name": "Python",
+                    "parent": "languages"
+                }
+            ],
+            "published_time": "2020-02-07T00:00:00.000Z"
+        },
+        {
+            "id": "how-python-implements-super-long-integers",
+            "title": "How python implements super long integers?",
+            "description": "Python must be doing something beautiful internally to support super long integers and today we find out what's under the hood. The article goes in-depth to explain design, storage, and operations on super long integers as implemented by Python.",
+            "cover": "https://user-images.githubusercontent.com/4745789/77845551-5d8d5800-71cd-11ea-8ab0-cd4b0c3239cb.png",
+            "gif": "https://media.giphy.com/media/SKGo6OYe24EBG/giphy.gif",
+            "authors": [
+                {
+                    "id": "arpit_bhayani",
+                    "twitter_handle": "arpit_bhayani",
+                    "name": "Arpit Bhayani",
+                    "bio": "Founder @Duggup and a Polymath | Writes about Language internals and Math in Computer Science",
+                    "profile_img": "https://user-images.githubusercontent.com/4745789/77757123-a2db4980-7056-11ea-82d7-ce023364bf21.jpg",
+                    "cover": "https://user-images.githubusercontent.com/4745789/77845426-819c6980-71cc-11ea-9cbf-2dc1e57371e8.png"
+                }
+            ],
+            "topics": [
+                {
+                    "id": "python",
+                    "name": "Python",
+                    "parent": "languages"
+                }
+            ],
+            "published_time": "2020-01-10T00:00:00.000Z"
+        }
+    ]
+}
