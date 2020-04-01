@@ -1,0 +1,29 @@
+{
+    "posts": [
+        {
+            "id": "understanding-inverse-document-frequency",
+            "title": "Understanding Inverse Document Frequency",
+            "description": "TF-IDF is extensively used in search engines and in various document classification and clustering techniques. Instead of taking the formula by the word, we take a detour and dive deep into the better half of it and find its connection with Probability, the role it plays in document relevance and the intuition behind it.",
+            "cover": "https://user-images.githubusercontent.com/4745789/77845445-a42e8280-71cc-11ea-94f0-ef3c792fa440.png",
+            "gif": "https://media.giphy.com/media/3ornjWIRSzXEw61KH6/giphy.gif",
+            "authors": [
+                {
+                    "id": "arpit_bhayani",
+                    "twitter_handle": "arpit_bhayani",
+                    "name": "Arpit Bhayani",
+                    "bio": "Founder @Duggup and a Polymath | Writes about Language internals and Math in Computer Science",
+                    "profile_img": "https://user-images.githubusercontent.com/4745789/77757123-a2db4980-7056-11ea-82d7-ce023364bf21.jpg",
+                    "cover": "https://user-images.githubusercontent.com/4745789/77845426-819c6980-71cc-11ea-9cbf-2dc1e57371e8.png"
+                }
+            ],
+            "topics": [
+                {
+                    "id": "data-mining",
+                    "name": "Data Mining",
+                    "parent": ""
+                }
+            ],
+            "published_time": "2020-03-06T00:00:00.000Z"
+        }
+    ]
+}
