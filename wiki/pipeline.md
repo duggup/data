@@ -4,32 +4,32 @@
 ## Languages
 
 ### Python
- - **Concurrency in Python**
- - **Parallelism in Python**
- - **Internals of Python AsyncIO**
- - **Internals of Python Generators**
- - **Python Garbage Collection**
+ - Concurrency in Python
+ - Parallelism in Python
+ - Internals of Python AsyncIO
+ - Internals of Python Generators
+ - Python Garbage Collection
 
 ### Java
- - **JVM Garbage Collection**
+ - JVM Garbage Collection
 
 ### Golang
- - **Golang Garbage Collection**
+ - Golang Garbage Collection
 
 ## Data Mining
- - **Bayesian average in action**
- - **Prediction by partial matching**
+ - Bayesian average in action
+ - Prediction by partial matching
 
 ## Data Structures
- - **Efficiently storing and querying Geolocation Data**
+ - Efficiently storing and querying Geolocation Data
 
 ## Algorithms
- - **A\* Search**
+ - A\* Search
 
 ## System Design
- - **Building a Distributed Queue**
- - **Building Google Drive**
- - **Building CI/CD engine**
+ - Building a Distributed Queue
+ - Building Google Drive
+ - Building CI/CD engine
 
 # Work in progress
 > These are the articles in progress; if the author does not finish up the article in 3 weeks, it will again be made available to be picked.
