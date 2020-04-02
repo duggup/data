@@ -24,7 +24,7 @@
  - **Efficiently storing and querying Geolocation Data**
 
 ## Algorithms
- - **A* Search**
+ - **A\* Search**
 
 ## System Design
  - **Building a Distributed Queue**
