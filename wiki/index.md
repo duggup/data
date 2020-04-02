@@ -52,4 +52,4 @@ If this sounds exciting,
  - Take a look at our [pipeline](/pipeline) of articles
  - Join our [Slack](https://join.slack.com/t/duggup/shared_invite/zt-d1ap3y83-vgQ4nremqECO1SvOVzR4qw) community
 
-[![Join us on Slack](https://user-images.githubusercontent.com/4745789/78239820-d1946c80-74fb-11ea-928b-0a3fddd052d7.png)](https://join.slack.com/t/duggup/shared_invite/zt-d1ap3y83-vgQ4nremqECO1SvOVzR4qw)
+[![Join us on Slack](https://user-images.githubusercontent.com/4745789/78241054-6fd50200-74fd-11ea-854a-2554a1431f3f.png)](https://join.slack.com/t/duggup/shared_invite/zt-d1ap3y83-vgQ4nremqECO1SvOVzR4qw)
