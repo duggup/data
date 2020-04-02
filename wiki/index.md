@@ -53,7 +53,3 @@ If this sounds exciting,
  - Join our [Slack](https://join.slack.com/t/duggup/shared_invite/zt-d1ap3y83-vgQ4nremqECO1SvOVzR4qw) community
 
 [![Join us on Slack](https://user-images.githubusercontent.com/4745789/78237664-42865500-74f9-11ea-92b8-2933bc32e52d.png)](https://join.slack.com/t/duggup/shared_invite/zt-d1ap3y83-vgQ4nremqECO1SvOVzR4qw)
-
-<p align="center">
-  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
-</p>
