@@ -51,3 +51,5 @@ Once your article is published on a super relevant platform like ours, you can w
 If this sounds exciting,
  - Take a look at our [pipeline](/pipeline) of articles
  - Join our [Slack](https://join.slack.com/t/duggup/shared_invite/zt-d1ap3y83-vgQ4nremqECO1SvOVzR4qw) community
+
+![Join us on Slack](https://user-images.githubusercontent.com/4745789/78237664-42865500-74f9-11ea-92b8-2933bc32e52d.png)
