@@ -17,7 +17,6 @@
  - Golang Garbage Collection
 
 ## Data Mining
- - Bayesian average in action
  - Prediction by partial matching
 
 ## Data Structures
@@ -35,4 +34,4 @@
 > These are the articles in progress; if the author does not finish up the article in 3 weeks, it will again be made available to be picked.
 
 ## System Design
- - Designing a generic rate limiter
+ - Parallelism in Python
