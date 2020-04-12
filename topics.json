@@ -1,5 +1,10 @@
 [
     {
+        "id": "statistics",
+        "name": "Statistics",
+        "parent": ""
+    },
+    {
         "id": "languages",
         "name": "Languages",
         "parent": ""
