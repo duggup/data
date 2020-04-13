@@ -5,7 +5,7 @@
 
 ### Python
  - Concurrency in Python
- - Parallelism in Python
+ - [in-progress] Parallelism in Python
  - Internals of Python AsyncIO
  - Internals of Python Generators
  - Python Garbage Collection
@@ -29,9 +29,4 @@
  - Building a Distributed Queue
  - Building Google Drive
  - Building a CI/CD engine
-
-# Work in progress
-> These are the articles in progress; if the author does not finish up the article in 3 weeks, it will again be made available to be picked.
-
-## System Design
- - Parallelism in Python
+ - Building Splitwise
