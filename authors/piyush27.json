@@ -1,0 +1,30 @@
+{
+    "posts": [
+        {
+            "id": "s.o.l.i.d-principles",
+            "title": "S.O.L.I.D Principles",
+            "description": "SOLID is a set of design principles in object-oriented software development; and when applied properly makes your code more extendable, logical and easier to read.",
+            "cover": "https://user-images.githubusercontent.com/4745789/79238091-98111900-7e8c-11ea-9627-b289d8b590a6.png",
+            "gif": "https://media.giphy.com/media/2Ur7rKKSLIvpwdc2lT/giphy.gif",
+            "authors": [
+                {
+                    "id": "piyush27",
+                    "twitter_handle": "OnlyMaheswari",
+                    "name": "Piyush Maheswari",
+                    "bio": "Android Developer | Speaker | Stand up Comedian",
+                    "profile_img": "https://user-images.githubusercontent.com/4745789/79239491-3fdb1680-7e8e-11ea-890f-97279e57601f.jpg",
+                    "cover": "https://user-images.githubusercontent.com/4745789/79241567-d4df0f00-7e90-11ea-82f1-04a1ac0abede.png",
+                    "substack": ""
+                }
+            ],
+            "topics": [
+                {
+                    "id": "software-engineering",
+                    "name": "Software Engineering",
+                    "parent": ""
+                }
+            ],
+            "published_time": "2020-04-14T00:00:00.000Z"
+        }
+    ]
+}
