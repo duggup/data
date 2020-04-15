@@ -1,5 +1,10 @@
 [
     {
+        "id": "software-engineering",
+        "name": "Software Engineering",
+        "parent": ""
+    },
+    {
         "id": "statistics",
         "name": "Statistics",
         "parent": ""
