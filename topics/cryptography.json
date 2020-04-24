@@ -1,0 +1,18 @@
+{
+    "posts": [
+        {
+            "id": "everything-that-you-need-to-know-about-image-steganography",
+            "title": "Everything that you need to know about Image Steganography",
+            "description": "Steganography has been around since at least 440 BCE but with the rise of computers, the techniques have evolved to handle digital data. In this article, we see the science behind image steganography, how it exploits various properties of images to hide secrets and walkthrough a few techniques in detail.",
+            "cover": "https://user-images.githubusercontent.com/4745789/77845538-40588980-71cd-11ea-856e-f544ca2ec9ec.png",
+            "gif": "https://media.giphy.com/media/V1NxC1YoNEHBe/giphy.gif",
+            "authors": [
+                "arpit_bhayani"
+            ],
+            "topics": [
+                "steganography"
+            ],
+            "published_time": "2020-01-17T00:00:00.000Z"
+        }
+    ]
+}
