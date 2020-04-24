@@ -7,6 +7,7 @@
         "gif": "https://media.giphy.com/media/KhdQ2Ia3FJuKs/giphy.gif",
         "authors": ["arpit_bhayani"],
         "topics": ["python"],
+        "originalUrl": "https://arpitbhayani.me/blogs/fsm",
         "published_time": "2020-04-19T00:00:00.000Z"
     },
     {
@@ -27,6 +28,7 @@
         "gif": "https://media.giphy.com/media/dJ4vNQ7r72pb4nDhN5/giphy.gif",
         "authors": ["arpit_bhayani"],
         "topics": ["statistics"],
+        "originalUrl": "https://arpitbhayani.me/blogs/bayesian-average",
         "published_time": "2020-04-12T00:00:00.000Z"
     },
     {
@@ -37,6 +39,7 @@
         "gif": "https://media.giphy.com/media/5YuhLwDgrgtRVwI7OY/giphy.gif",
         "authors": ["arpit_bhayani"],
         "topics": ["system-design"],
+        "originalUrl": "https://arpitbhayani.me/blogs/sliding-window-ratelimiter",
         "published_time": "2020-04-05T00:00:00.000Z"
     },
     {
@@ -47,6 +50,7 @@
         "gif": "https://media.giphy.com/media/3ornjWIRSzXEw61KH6/giphy.gif",
         "authors": ["arpit_bhayani"],
         "topics": ["data-mining"],
+        "originalUrl": "https://arpitbhayani.me/blogs/idf",
         "published_time": "2020-03-06T00:00:00.000Z"
     },
     {
@@ -57,6 +61,7 @@
         "gif": "https://media.giphy.com/media/26uflDxU6cEhrhmUg/giphy.gif",
         "authors": ["arpit_bhayani"],
         "topics": ["algorithms"],
+        "originalUrl": "https://arpitbhayani.me/blogs/rule-30",
         "published_time": "2020-02-14T00:00:00.000Z"
     },
     {
@@ -67,6 +72,7 @@
         "gif": "https://media.giphy.com/media/WtCHRSPCuqS8E/giphy.gif",
         "authors": ["arpit_bhayani"],
         "topics": ["python"],
+        "originalUrl": "https://arpitbhayani.me/blogs/function-overloading",
         "published_time": "2020-02-07T00:00:00.000Z"
     },
     {
@@ -77,6 +83,7 @@
         "authors": ["arpit_bhayani"],
         "gif": "https://media.giphy.com/media/xGdvlOVSWaDvi/giphy.gif",
         "topics": ["algorithms"],
+        "originalUrl": "https://arpitbhayani.me/blogs/isolation-forest",
         "published_time": "2020-01-28T00:00:00.000Z"
     },
     {
@@ -87,6 +94,7 @@
         "gif": "https://media.giphy.com/media/V1NxC1YoNEHBe/giphy.gif",
         "authors": ["arpit_bhayani"],
         "topics": ["steganography"],
+        "originalUrl": "https://arpitbhayani.me/blogs/image-steganography",
         "published_time": "2020-01-17T00:00:00.000Z"
     },
     {
@@ -97,6 +105,7 @@
         "gif": "https://media.giphy.com/media/SKGo6OYe24EBG/giphy.gif",
         "authors": ["arpit_bhayani"],
         "topics": ["python"],
+        "originalUrl": "https://arpitbhayani.me/blogs/super-long-integers",
         "published_time": "2020-01-10T00:00:00.000Z"
     }
 ]
