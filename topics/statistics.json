@@ -1,18 +1,5 @@
 {
     "posts": [
-        {
-            "id": "solving-an-age-old-problem-using-bayesian-average",
-            "title": "Solving an age-old problem using Bayesian Average",
-            "description": "Ranking a list of movies, products, books or even restaurants is tricky and in this article, we find what works for such a rating system and the math behind it.",
-            "cover": "https://user-images.githubusercontent.com/4745789/79074736-b26fb900-7d0b-11ea-9586-0ef13662eab9.png",
-            "gif": "https://media.giphy.com/media/dJ4vNQ7r72pb4nDhN5/giphy.gif",
-            "authors": [
-                "arpit_bhayani"
-            ],
-            "topics": [
-                "statistics"
-            ],
-            "published_time": "2020-04-12T00:00:00.000Z"
-        }
+        "solving-an-age-old-problem-using-bayesian-average"
     ]
 }
