@@ -1,0 +1,46 @@
+{
+    "posts": [
+        {
+            "id": "building-finite-state-machines-with-python-coroutines",
+            "title": "Building Finite State Machines with Python Coroutines",
+            "description": "The most intuitive way of building and implementing Finite State Machines is by using Python Coroutines and in this article, we find how and why.",
+            "cover": "https://user-images.githubusercontent.com/4745789/79685663-1c321a80-8258-11ea-802f-9bd07ded28fc.png",
+            "gif": "https://media.giphy.com/media/KhdQ2Ia3FJuKs/giphy.gif",
+            "authors": [
+                "arpit_bhayani"
+            ],
+            "topics": [
+                "python"
+            ],
+            "published_time": "2020-04-19T00:00:00.000Z"
+        },
+        {
+            "id": "implemeting-function-overloading-in-python",
+            "title": "Implemeting function overloading in Python",
+            "description": "Python natively does not support function overloading - having multiple functions with the same name. Today we see how we can implement and add this functionality to Python by using common language constructs like decorators and dictionaries.",
+            "cover": "https://user-images.githubusercontent.com/4745789/80238146-8b09dc00-867b-11ea-8056-f4bdf448b2b5.png",
+            "gif": "https://media.giphy.com/media/WtCHRSPCuqS8E/giphy.gif",
+            "authors": [
+                "arpit_bhayani"
+            ],
+            "topics": [
+                "python"
+            ],
+            "published_time": "2020-02-07T00:00:00.000Z"
+        },
+        {
+            "id": "how-python-implements-super-long-integers",
+            "title": "How python implements super long integers?",
+            "description": "Python must be doing something beautiful internally to support super long integers and today we find out what's under the hood. The article goes in-depth to explain design, storage, and operations on super long integers as implemented by Python.",
+            "cover": "https://user-images.githubusercontent.com/4745789/77845551-5d8d5800-71cd-11ea-8ab0-cd4b0c3239cb.png",
+            "gif": "https://media.giphy.com/media/SKGo6OYe24EBG/giphy.gif",
+            "authors": [
+                "arpit_bhayani"
+            ],
+            "topics": [
+                "python"
+            ],
+            "published_time": "2020-01-10T00:00:00.000Z"
+        }
+    ]
+}
