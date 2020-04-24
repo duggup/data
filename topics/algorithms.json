@@ -1,32 +1,6 @@
 {
     "posts": [
-        {
-            "id": "pseudorandom-numbers-using-cellular-automata-rule-30",
-            "title": "Pseudorandom numbers using Cellular Automata - Rule 30",
-            "description": "Generating pseudorandom numbers is an interesting problem in Computer Science. In this article, we dive deep into an algorithm for generating pseudorandom numbers using Rule 30 of Cellular Automaton.",
-            "cover": "https://user-images.githubusercontent.com/4745789/77845469-d5a74e00-71cc-11ea-80e3-aae6b02d54e0.png",
-            "gif": "https://media.giphy.com/media/26uflDxU6cEhrhmUg/giphy.gif",
-            "authors": [
-                "arpit_bhayani"
-            ],
-            "topics": [
-                "algorithms"
-            ],
-            "published_time": "2020-02-14T00:00:00.000Z"
-        },
-        {
-            "id": "isolation-forest-algorithm-for-anomaly-detection",
-            "title": "Isolation Forest algorithm for anomaly detection",
-            "description": "Anomaly detection is an age-old problem and in this article, we dive deep into an unsupervised algorithm, Isolation Forest, that beautifully exploits the characteristics of anomalies. Instead of profiling normal points and labeling others as anomalies, the algorithm is actually is tuned to detect anomalies.",
-            "cover": "https://user-images.githubusercontent.com/4745789/77845518-2159f780-71cd-11ea-9b0e-57cd451da3b8.png",
-            "authors": [
-                "arpit_bhayani"
-            ],
-            "gif": "https://media.giphy.com/media/xGdvlOVSWaDvi/giphy.gif",
-            "topics": [
-                "algorithms"
-            ],
-            "published_time": "2020-01-28T00:00:00.000Z"
-        }
+        "pseudorandom-numbers-using-cellular-automata-rule-30",
+        "isolation-forest-algorithm-for-anomaly-detection"
     ]
 }
