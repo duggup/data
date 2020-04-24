@@ -177,7 +177,7 @@
         "id": "implemeting-function-overloading-in-python",
         "title": "Implemeting function overloading in Python",
         "description": "Python natively does not support function overloading - having multiple functions with the same name. Today we see how we can implement and add this functionality to Python by using common language constructs like decorators and dictionaries.",
-        "cover": "https://user-images.githubusercontent.com/4745789/77845505-07201980-71cd-11ea-9d27-44094218741f.png",
+        "cover": "https://user-images.githubusercontent.com/4745789/80238146-8b09dc00-867b-11ea-8056-f4bdf448b2b5.png",
         "gif": "https://media.giphy.com/media/WtCHRSPCuqS8E/giphy.gif",
         "authors": [
             {
