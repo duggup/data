@@ -1,7 +1,7 @@
 {
     "posts": [
         "building-finite-state-machines-with-python-coroutines",
-        "implemeting-function-overloading-in-python",
+        "implementing-function-overloading-in-python",
         "how-python-implements-super-long-integers"
     ]
 }
