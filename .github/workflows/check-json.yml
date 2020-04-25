@@ -26,4 +26,4 @@ jobs:
     - name: Validating JSON files.
       run: |
         echo Running JQ on all JSON files.
-        jq -cMe posts.json authors.json topics.json
+        jq -cMe .  posts.json authors.json topics.json
