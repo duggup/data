@@ -24,5 +24,17 @@
         "github": "Piyush2769",
         "linkedin": "https://www.linkedin.com/in/piyush-maheswari-835424138/",
         "website": ""
+    },
+    {
+        "id": "hodor",
+        "twitter_handle": "LogicalPersn",
+        "name": "Akshay Malav",
+        "bio": "Final Year CSE Undergrad at IIT Jodhpur | Interned at Mathworks",
+        "profile_img": "https://user-images.githubusercontent.com/27894559/80276303-7bcf7080-8705-11ea-8413-34ad10f08d44.png",
+        "cover": "https://user-images.githubusercontent.com/27894559/80276262-2e530380-8705-11ea-8114-2d8db748cb8e.png",
+        "substack": "",
+        "github": "litelo",
+        "linkedin": "https://www.linkedin.com/in/akshay-malav-935033129/",
+        "website": ""
     }
 ]
