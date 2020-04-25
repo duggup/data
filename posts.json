@@ -3,29 +3,11 @@
         "id": "building-finite-state-machines-with-python-coroutines",
         "title": "Building Finite State Machines with Python Coroutines",
         "description": "The most intuitive way of building and implementing Finite State Machines is by using Python Coroutines and in this article, we find how and why.",
-        "cover": "https://user-images.githubusercontent.com/4745789/79685663-1c321a80-8258-11ea-802f-9bd07ded28fc.png",
+        "cover": "https://user-images.githubusercontent.com/4745789/79684359-3ebf3600-824e-11ea-97cc-0f06c2919aeb.png",
         "gif": "https://media.giphy.com/media/KhdQ2Ia3FJuKs/giphy.gif",
-        "authors": [
-            {
-                "id": "arpit_bhayani",
-                "twitter_handle": "arpit_bhayani",
-                "name": "Arpit Bhayani",
-                "bio": "Backend @Unacademy • Data @Amazon • Platform @Practo | Writes about Language internals and Math in Computer Science",
-                "profile_img": "https://user-images.githubusercontent.com/4745789/77757123-a2db4980-7056-11ea-82d7-ce023364bf21.jpg",
-                "cover": "https://user-images.githubusercontent.com/4745789/77845426-819c6980-71cc-11ea-9cbf-2dc1e57371e8.png",
-                "substack": "arpit",
-                "github": "arpitbbhayani",
-                "linkedin": "https://www.linkedin.com/in/arpitbhayani/",
-                "website": "https://arpitbhayani.me"
-            }
-        ],
-        "topics": [
-            {
-                "id": "python",
-                "name": "Python",
-                "parent": "languages"
-            }
-        ],
+        "authors": ["arpit_bhayani"],
+        "topics": ["python"],
+        "originalUrl": "https://arpitbhayani.me/blogs/fsm",
         "published_time": "2020-04-19T00:00:00.000Z"
     },
     {
@@ -34,259 +16,96 @@
         "description": "SOLID is a set of design principles in object-oriented software development; and when applied properly makes your code more extendable, logical and easier to read.",
         "cover": "https://user-images.githubusercontent.com/4745789/79238091-98111900-7e8c-11ea-9627-b289d8b590a6.png",
         "gif": "https://media.giphy.com/media/2Ur7rKKSLIvpwdc2lT/giphy.gif",
-        "authors": [
-            {
-                "id": "piyush27",
-                "twitter_handle": "OnlyMaheswari",
-                "name": "Piyush Maheswari",
-                "bio": "Android Developer | Speaker | Stand up Comedian",
-                "profile_img": "https://user-images.githubusercontent.com/4745789/79239491-3fdb1680-7e8e-11ea-890f-97279e57601f.jpg",
-                "cover": "https://user-images.githubusercontent.com/4745789/79241567-d4df0f00-7e90-11ea-82f1-04a1ac0abede.png",
-                "substack": "",
-                "github": "Piyush2769",
-                "linkedin": "https://www.linkedin.com/in/piyush-maheswari-835424138/",
-                "website": ""
-            }
-        ],
-        "topics": [
-            {
-                "id": "software-engineering",
-                "name": "Software Engineering",
-                "parent": ""
-            }
-        ],
+        "authors": ["piyush27"],
+        "topics": ["software-engineering"],
         "published_time": "2020-04-14T00:00:00.000Z"
     },
     {
         "id": "solving-an-age-old-problem-using-bayesian-average",
         "title": "Solving an age-old problem using Bayesian Average",
         "description": "Ranking a list of movies, products, books or even restaurants is tricky and in this article, we find what works for such a rating system and the math behind it.",
-        "cover": "https://user-images.githubusercontent.com/4745789/79074736-b26fb900-7d0b-11ea-9586-0ef13662eab9.png",
+        "cover": "https://user-images.githubusercontent.com/4745789/79684359-3ebf3600-824e-11ea-97cc-0f06c2919aeb.png",
         "gif": "https://media.giphy.com/media/dJ4vNQ7r72pb4nDhN5/giphy.gif",
-        "authors": [
-            {
-                "id": "arpit_bhayani",
-                "twitter_handle": "arpit_bhayani",
-                "name": "Arpit Bhayani",
-                "bio": "Backend @Unacademy • Data @Amazon • Platform @Practo | Writes about Language internals and Math in Computer Science",
-                "profile_img": "https://user-images.githubusercontent.com/4745789/77757123-a2db4980-7056-11ea-82d7-ce023364bf21.jpg",
-                "cover": "https://user-images.githubusercontent.com/4745789/77845426-819c6980-71cc-11ea-9cbf-2dc1e57371e8.png",
-                "substack": "arpit",
-                "github": "arpitbbhayani",
-                "linkedin": "https://www.linkedin.com/in/arpitbhayani/",
-                "website": "https://arpitbhayani.me"
-            }
-        ],
-        "topics": [
-            {
-                "id": "statistics",
-                "name": "Statistics",
-                "parent": ""
-            }
-        ],
+        "authors": ["arpit_bhayani"],
+        "topics": ["statistics"],
+        "originalUrl": "https://arpitbhayani.me/blogs/bayesian-average",
         "published_time": "2020-04-12T00:00:00.000Z"
     },
     {
         "id": "sliding-window-based-rate-limiter",
         "title": "Sliding window based Rate Limiter",
         "description": "A rate limiter is used to control the rate of traffic sent or received on the network and in this article we dive deep and design a sliding window based rate limiter.",
-        "cover": "https://user-images.githubusercontent.com/4745789/78481566-79f83a00-7763-11ea-8c98-ca7384d8ccfe.png",
+        "cover": "https://user-images.githubusercontent.com/4745789/78276848-3c13cf80-7531-11ea-8186-99cb1da58e50.png",
         "gif": "https://media.giphy.com/media/5YuhLwDgrgtRVwI7OY/giphy.gif",
-        "authors": [
-            {
-                "id": "arpit_bhayani",
-                "twitter_handle": "arpit_bhayani",
-                "name": "Arpit Bhayani",
-                "bio": "Backend @Unacademy • Data @Amazon • Platform @Practo | Writes about Language internals and Math in Computer Science",
-                "profile_img": "https://user-images.githubusercontent.com/4745789/77757123-a2db4980-7056-11ea-82d7-ce023364bf21.jpg",
-                "cover": "https://user-images.githubusercontent.com/4745789/77845426-819c6980-71cc-11ea-9cbf-2dc1e57371e8.png",
-                "substack": "arpit",
-                "github": "arpitbbhayani",
-                "linkedin": "https://www.linkedin.com/in/arpitbhayani/",
-                "website": "https://arpitbhayani.me"
-            }
-        ],
-        "topics": [
-            {
-                "id": "system-design",
-                "name": "System Design",
-                "parent": ""
-            }
-        ],
+        "authors": ["arpit_bhayani"],
+        "topics": ["system-design"],
+        "originalUrl": "https://arpitbhayani.me/blogs/sliding-window-ratelimiter",
         "published_time": "2020-04-05T00:00:00.000Z"
     },
     {
         "id": "understanding-inverse-document-frequency",
         "title": "Understanding Inverse Document Frequency",
         "description": "TF-IDF is extensively used in search engines and in various document classification and clustering techniques. Instead of taking the formula by the word, we take a detour and dive deep into the better half of it and find its connection with Probability, the role it plays in document relevance and the intuition behind it.",
-        "cover": "https://user-images.githubusercontent.com/4745789/77845445-a42e8280-71cc-11ea-94f0-ef3c792fa440.png",
+        "cover": "https://user-images.githubusercontent.com/4745789/76207579-10e4db80-6224-11ea-91ba-b67359125156.png",
         "gif": "https://media.giphy.com/media/3ornjWIRSzXEw61KH6/giphy.gif",
-        "authors": [
-            {
-                "id": "arpit_bhayani",
-                "twitter_handle": "arpit_bhayani",
-                "name": "Arpit Bhayani",
-                "bio": "Backend @Unacademy • Data @Amazon • Platform @Practo | Writes about Language internals and Math in Computer Science",
-                "profile_img": "https://user-images.githubusercontent.com/4745789/77757123-a2db4980-7056-11ea-82d7-ce023364bf21.jpg",
-                "cover": "https://user-images.githubusercontent.com/4745789/77845426-819c6980-71cc-11ea-9cbf-2dc1e57371e8.png",
-                "substack": "arpit",
-                "github": "arpitbbhayani",
-                "linkedin": "https://www.linkedin.com/in/arpitbhayani/",
-                "website": "https://arpitbhayani.me"
-            }
-        ],
-        "topics": [
-            {
-                "id": "data-mining",
-                "name": "Data Mining",
-                "parent": ""
-            }
-        ],
+        "authors": ["arpit_bhayani"],
+        "topics": ["data-mining"],
+        "originalUrl": "https://arpitbhayani.me/blogs/idf",
         "published_time": "2020-03-06T00:00:00.000Z"
     },
     {
         "id": "pseudorandom-numbers-using-cellular-automata-rule-30",
         "title": "Pseudorandom numbers using Cellular Automata - Rule 30",
         "description": "Generating pseudorandom numbers is an interesting problem in Computer Science. In this article, we dive deep into an algorithm for generating pseudorandom numbers using Rule 30 of Cellular Automaton.",
-        "cover": "https://user-images.githubusercontent.com/4745789/77845469-d5a74e00-71cc-11ea-80e3-aae6b02d54e0.png",
+        "cover": "https://user-images.githubusercontent.com/4745789/74463952-b07aac80-4eb8-11ea-8d8e-6f286767ec7e.png",
         "gif": "https://media.giphy.com/media/26uflDxU6cEhrhmUg/giphy.gif",
-        "authors": [
-            {
-                "id": "arpit_bhayani",
-                "twitter_handle": "arpit_bhayani",
-                "name": "Arpit Bhayani",
-                "bio": "Backend @Unacademy • Data @Amazon • Platform @Practo | Writes about Language internals and Math in Computer Science",
-                "profile_img": "https://user-images.githubusercontent.com/4745789/77757123-a2db4980-7056-11ea-82d7-ce023364bf21.jpg",
-                "cover": "https://user-images.githubusercontent.com/4745789/77845426-819c6980-71cc-11ea-9cbf-2dc1e57371e8.png",
-                "substack": "arpit",
-                "github": "arpitbbhayani",
-                "linkedin": "https://www.linkedin.com/in/arpitbhayani/",
-                "website": "https://arpitbhayani.me"
-            }
-        ],
-        "topics": [
-            {
-                "id": "algorithms",
-                "name": "Algorithms",
-                "parent": ""
-            }
-        ],
+        "authors": ["arpit_bhayani"],
+        "topics": ["algorithms"],
+        "originalUrl": "https://arpitbhayani.me/blogs/rule-30",
         "published_time": "2020-02-14T00:00:00.000Z"
     },
     {
-        "id": "implemeting-function-overloading-in-python",
-        "title": "Implemeting function overloading in Python",
+        "id": "implementing-function-overloading-in-python",
+        "title": "implementing function overloading in Python",
         "description": "Python natively does not support function overloading - having multiple functions with the same name. Today we see how we can implement and add this functionality to Python by using common language constructs like decorators and dictionaries.",
-        "cover": "https://user-images.githubusercontent.com/4745789/77845505-07201980-71cd-11ea-9d27-44094218741f.png",
+        "cover": "https://user-images.githubusercontent.com/4745789/73909201-04423000-48d2-11ea-8bd0-d7c25f6435c1.png",
         "gif": "https://media.giphy.com/media/WtCHRSPCuqS8E/giphy.gif",
-        "authors": [
-            {
-                "id": "arpit_bhayani",
-                "twitter_handle": "arpit_bhayani",
-                "name": "Arpit Bhayani",
-                "bio": "Backend @Unacademy • Data @Amazon • Platform @Practo | Writes about Language internals and Math in Computer Science",
-                "profile_img": "https://user-images.githubusercontent.com/4745789/77757123-a2db4980-7056-11ea-82d7-ce023364bf21.jpg",
-                "cover": "https://user-images.githubusercontent.com/4745789/77845426-819c6980-71cc-11ea-9cbf-2dc1e57371e8.png",
-                "substack": "arpit",
-                "github": "arpitbbhayani",
-                "linkedin": "https://www.linkedin.com/in/arpitbhayani/",
-                "website": "https://arpitbhayani.me"
-            }
-        ],
-        "topics": [
-            {
-                "id": "python",
-                "name": "Python",
-                "parent": "languages"
-            }
-        ],
+        "authors": ["arpit_bhayani"],
+        "topics": ["python"],
+        "originalUrl": "https://arpitbhayani.me/blogs/function-overloading",
         "published_time": "2020-02-07T00:00:00.000Z"
     },
     {
         "id": "isolation-forest-algorithm-for-anomaly-detection",
         "title": "Isolation Forest algorithm for anomaly detection",
         "description": "Anomaly detection is an age-old problem and in this article, we dive deep into an unsupervised algorithm, Isolation Forest, that beautifully exploits the characteristics of anomalies. Instead of profiling normal points and labeling others as anomalies, the algorithm is actually is tuned to detect anomalies.",
-        "cover": "https://user-images.githubusercontent.com/4745789/77845518-2159f780-71cd-11ea-9b0e-57cd451da3b8.png",
-        "authors": [
-            {
-                "id": "arpit_bhayani",
-                "twitter_handle": "arpit_bhayani",
-                "name": "Arpit Bhayani",
-                "bio": "Backend @Unacademy • Data @Amazon • Platform @Practo | Writes about Language internals and Math in Computer Science",
-                "profile_img": "https://user-images.githubusercontent.com/4745789/77757123-a2db4980-7056-11ea-82d7-ce023364bf21.jpg",
-                "cover": "https://user-images.githubusercontent.com/4745789/77845426-819c6980-71cc-11ea-9cbf-2dc1e57371e8.png",
-                "substack": "arpit",
-                "github": "arpitbbhayani",
-                "linkedin": "https://www.linkedin.com/in/arpitbhayani/",
-                "website": "https://arpitbhayani.me"
-            }
-        ],
+        "cover": "https://user-images.githubusercontent.com/4745789/73280907-34743980-4215-11ea-89f0-eac4a71df6e5.png",
+        "authors": ["arpit_bhayani"],
         "gif": "https://media.giphy.com/media/xGdvlOVSWaDvi/giphy.gif",
-        "topics": [
-            {
-                "id": "algorithms",
-                "name": "Algorithms",
-                "parent": ""
-            }
-        ],
+        "topics": ["algorithms"],
+        "originalUrl": "https://arpitbhayani.me/blogs/isolation-forest",
         "published_time": "2020-01-28T00:00:00.000Z"
     },
     {
         "id": "everything-that-you-need-to-know-about-image-steganography",
         "title": "Everything that you need to know about Image Steganography",
         "description": "Steganography has been around since at least 440 BCE but with the rise of computers, the techniques have evolved to handle digital data. In this article, we see the science behind image steganography, how it exploits various properties of images to hide secrets and walkthrough a few techniques in detail.",
-        "cover": "https://user-images.githubusercontent.com/4745789/77845538-40588980-71cd-11ea-856e-f544ca2ec9ec.png",
+        "cover": "https://user-images.githubusercontent.com/4745789/72659471-2a1c9900-39e6-11ea-9b93-c11bf3eefc43.png",
         "gif": "https://media.giphy.com/media/V1NxC1YoNEHBe/giphy.gif",
-        "authors": [
-            {
-                "id": "arpit_bhayani",
-                "twitter_handle": "arpit_bhayani",
-                "name": "Arpit Bhayani",
-                "bio": "Backend @Unacademy • Data @Amazon • Platform @Practo | Writes about Language internals and Math in Computer Science",
-                "profile_img": "https://user-images.githubusercontent.com/4745789/77757123-a2db4980-7056-11ea-82d7-ce023364bf21.jpg",
-                "cover": "https://user-images.githubusercontent.com/4745789/77845426-819c6980-71cc-11ea-9cbf-2dc1e57371e8.png",
-                "substack": "arpit",
-                "github": "arpitbbhayani",
-                "linkedin": "https://www.linkedin.com/in/arpitbhayani/",
-                "website": "https://arpitbhayani.me"
-            }
-        ],
-        "topics": [
-            {
-                "id": "steganography",
-                "name": "Steganography",
-                "parent": "cryptography"
-            }
-        ],
+        "authors": ["arpit_bhayani"],
+        "topics": ["steganography"],
+        "originalUrl": "https://arpitbhayani.me/blogs/image-steganography",
         "published_time": "2020-01-17T00:00:00.000Z"
     },
     {
         "id": "how-python-implements-super-long-integers",
         "title": "How python implements super long integers?",
         "description": "Python must be doing something beautiful internally to support super long integers and today we find out what's under the hood. The article goes in-depth to explain design, storage, and operations on super long integers as implemented by Python.",
-        "cover": "https://user-images.githubusercontent.com/4745789/77845551-5d8d5800-71cd-11ea-8ab0-cd4b0c3239cb.png",
+        "cover": "https://user-images.githubusercontent.com/4745789/72040055-55f49c00-32cd-11ea-9190-8f5a67c2f3d9.png",
         "gif": "https://media.giphy.com/media/SKGo6OYe24EBG/giphy.gif",
-        "authors": [
-            {
-                "id": "arpit_bhayani",
-                "twitter_handle": "arpit_bhayani",
-                "name": "Arpit Bhayani",
-                "bio": "Backend @Unacademy • Data @Amazon • Platform @Practo | Writes about Language internals and Math in Computer Science",
-                "profile_img": "https://user-images.githubusercontent.com/4745789/77757123-a2db4980-7056-11ea-82d7-ce023364bf21.jpg",
-                "cover": "https://user-images.githubusercontent.com/4745789/77845426-819c6980-71cc-11ea-9cbf-2dc1e57371e8.png",
-                "substack": "arpit",
-                "github": "arpitbbhayani",
-                "linkedin": "https://www.linkedin.com/in/arpitbhayani/",
-                "website": "https://arpitbhayani.me"
-            }
-        ],
-        "topics": [
-            {
-                "id": "python",
-                "name": "Python",
-                "parent": "languages"
-            }
-        ],
+        "authors": ["arpit_bhayani"],
+        "topics": ["python"],
+        "originalUrl": "https://arpitbhayani.me/blogs/super-long-integers",
         "published_time": "2020-01-10T00:00:00.000Z"
     }
 ]
