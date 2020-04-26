@@ -1,12 +1,31 @@
 [
     {
+        "id": "what-makes-mysql-lru-cache-scan-resistant",
+        "title": "What makes MySQL LRU cache scan resistant",
+        "description": "The MySQL InnoDB Storage engine uses LRU cache but it suffers from a notorious problem. In this article, we find how by using Midpoint Insertion Strategy and changing one aspect of LRU, MySQL becomes scan resistant and super performant.",
+        "cover": "https://user-images.githubusercontent.com/4745789/80304802-0ed7db80-87d6-11ea-98db-bc5d4afe965b.png",
+        "gif": "https://media.giphy.com/media/daUOBsa1OztxC/giphy.gif",
+        "authors": [
+            "arpit_bhayani"
+        ],
+        "topics": [
+            "algorithms",
+            "databases"
+        ],
+        "published_time": "2020-04-26T00:00:00.000Z"
+    },
+    {
         "id": "building-finite-state-machines-with-python-coroutines",
         "title": "Building Finite State Machines with Python Coroutines",
         "description": "The most intuitive way of building and implementing Finite State Machines is by using Python Coroutines and in this article, we find how and why.",
         "cover": "https://user-images.githubusercontent.com/4745789/79684359-3ebf3600-824e-11ea-97cc-0f06c2919aeb.png",
         "gif": "https://media.giphy.com/media/KhdQ2Ia3FJuKs/giphy.gif",
-        "authors": ["arpit_bhayani"],
-        "topics": ["python"],
+        "authors": [
+            "arpit_bhayani"
+        ],
+        "topics": [
+            "python"
+        ],
         "originalUrl": "https://arpitbhayani.me/blogs/fsm",
         "published_time": "2020-04-19T00:00:00.000Z"
     },
@@ -16,8 +35,12 @@
         "description": "SOLID is a set of design principles in object-oriented software development; and when applied properly makes your code more extendable, logical and easier to read.",
         "cover": "https://user-images.githubusercontent.com/4745789/79238091-98111900-7e8c-11ea-9627-b289d8b590a6.png",
         "gif": "https://media.giphy.com/media/2Ur7rKKSLIvpwdc2lT/giphy.gif",
-        "authors": ["piyush27"],
-        "topics": ["software-engineering"],
+        "authors": [
+            "piyush27"
+        ],
+        "topics": [
+            "software-engineering"
+        ],
         "published_time": "2020-04-14T00:00:00.000Z"
     },
     {
@@ -26,8 +49,12 @@
         "description": "Ranking a list of movies, products, books or even restaurants is tricky and in this article, we find what works for such a rating system and the math behind it.",
         "cover": "https://user-images.githubusercontent.com/4745789/79684359-3ebf3600-824e-11ea-97cc-0f06c2919aeb.png",
         "gif": "https://media.giphy.com/media/dJ4vNQ7r72pb4nDhN5/giphy.gif",
-        "authors": ["arpit_bhayani"],
-        "topics": ["statistics"],
+        "authors": [
+            "arpit_bhayani"
+        ],
+        "topics": [
+            "statistics"
+        ],
         "originalUrl": "https://arpitbhayani.me/blogs/bayesian-average",
         "published_time": "2020-04-12T00:00:00.000Z"
     },
@@ -37,8 +64,12 @@
         "description": "A rate limiter is used to control the rate of traffic sent or received on the network and in this article we dive deep and design a sliding window based rate limiter.",
         "cover": "https://user-images.githubusercontent.com/4745789/78276848-3c13cf80-7531-11ea-8186-99cb1da58e50.png",
         "gif": "https://media.giphy.com/media/5YuhLwDgrgtRVwI7OY/giphy.gif",
-        "authors": ["arpit_bhayani"],
-        "topics": ["system-design"],
+        "authors": [
+            "arpit_bhayani"
+        ],
+        "topics": [
+            "system-design"
+        ],
         "originalUrl": "https://arpitbhayani.me/blogs/sliding-window-ratelimiter",
         "published_time": "2020-04-05T00:00:00.000Z"
     },
@@ -48,8 +79,12 @@
         "description": "TF-IDF is extensively used in search engines and in various document classification and clustering techniques. Instead of taking the formula by the word, we take a detour and dive deep into the better half of it and find its connection with Probability, the role it plays in document relevance and the intuition behind it.",
         "cover": "https://user-images.githubusercontent.com/4745789/76207579-10e4db80-6224-11ea-91ba-b67359125156.png",
         "gif": "https://media.giphy.com/media/3ornjWIRSzXEw61KH6/giphy.gif",
-        "authors": ["arpit_bhayani"],
-        "topics": ["data-mining"],
+        "authors": [
+            "arpit_bhayani"
+        ],
+        "topics": [
+            "data-mining"
+        ],
         "originalUrl": "https://arpitbhayani.me/blogs/idf",
         "published_time": "2020-03-06T00:00:00.000Z"
     },
@@ -59,8 +94,12 @@
         "description": "Generating pseudorandom numbers is an interesting problem in Computer Science. In this article, we dive deep into an algorithm for generating pseudorandom numbers using Rule 30 of Cellular Automaton.",
         "cover": "https://user-images.githubusercontent.com/4745789/74463952-b07aac80-4eb8-11ea-8d8e-6f286767ec7e.png",
         "gif": "https://media.giphy.com/media/26uflDxU6cEhrhmUg/giphy.gif",
-        "authors": ["arpit_bhayani"],
-        "topics": ["algorithms"],
+        "authors": [
+            "arpit_bhayani"
+        ],
+        "topics": [
+            "algorithms"
+        ],
         "originalUrl": "https://arpitbhayani.me/blogs/rule-30",
         "published_time": "2020-02-14T00:00:00.000Z"
     },
@@ -70,8 +109,12 @@
         "description": "Python natively does not support function overloading - having multiple functions with the same name. Today we see how we can implement and add this functionality to Python by using common language constructs like decorators and dictionaries.",
         "cover": "https://user-images.githubusercontent.com/4745789/73909201-04423000-48d2-11ea-8bd0-d7c25f6435c1.png",
         "gif": "https://media.giphy.com/media/WtCHRSPCuqS8E/giphy.gif",
-        "authors": ["arpit_bhayani"],
-        "topics": ["python"],
+        "authors": [
+            "arpit_bhayani"
+        ],
+        "topics": [
+            "python"
+        ],
         "originalUrl": "https://arpitbhayani.me/blogs/function-overloading",
         "published_time": "2020-02-07T00:00:00.000Z"
     },
@@ -80,9 +123,13 @@
         "title": "Isolation Forest algorithm for anomaly detection",
         "description": "Anomaly detection is an age-old problem and in this article, we dive deep into an unsupervised algorithm, Isolation Forest, that beautifully exploits the characteristics of anomalies. Instead of profiling normal points and labeling others as anomalies, the algorithm is actually is tuned to detect anomalies.",
         "cover": "https://user-images.githubusercontent.com/4745789/73280907-34743980-4215-11ea-89f0-eac4a71df6e5.png",
-        "authors": ["arpit_bhayani"],
+        "authors": [
+            "arpit_bhayani"
+        ],
         "gif": "https://media.giphy.com/media/xGdvlOVSWaDvi/giphy.gif",
-        "topics": ["algorithms"],
+        "topics": [
+            "algorithms"
+        ],
         "originalUrl": "https://arpitbhayani.me/blogs/isolation-forest",
         "published_time": "2020-01-28T00:00:00.000Z"
     },
@@ -92,8 +139,12 @@
         "description": "Steganography has been around since at least 440 BCE but with the rise of computers, the techniques have evolved to handle digital data. In this article, we see the science behind image steganography, how it exploits various properties of images to hide secrets and walkthrough a few techniques in detail.",
         "cover": "https://user-images.githubusercontent.com/4745789/72659471-2a1c9900-39e6-11ea-9b93-c11bf3eefc43.png",
         "gif": "https://media.giphy.com/media/V1NxC1YoNEHBe/giphy.gif",
-        "authors": ["arpit_bhayani"],
-        "topics": ["steganography"],
+        "authors": [
+            "arpit_bhayani"
+        ],
+        "topics": [
+            "steganography"
+        ],
         "originalUrl": "https://arpitbhayani.me/blogs/image-steganography",
         "published_time": "2020-01-17T00:00:00.000Z"
     },
@@ -103,19 +154,27 @@
         "description": "Python must be doing something beautiful internally to support super long integers and today we find out what's under the hood. The article goes in-depth to explain design, storage, and operations on super long integers as implemented by Python.",
         "cover": "https://user-images.githubusercontent.com/4745789/72040055-55f49c00-32cd-11ea-9190-8f5a67c2f3d9.png",
         "gif": "https://media.giphy.com/media/SKGo6OYe24EBG/giphy.gif",
-        "authors": ["arpit_bhayani"],
-        "topics": ["python"],
+        "authors": [
+            "arpit_bhayani"
+        ],
+        "topics": [
+            "python"
+        ],
         "originalUrl": "https://arpitbhayani.me/blogs/super-long-integers",
         "published_time": "2020-01-10T00:00:00.000Z"
     },
-     {
+    {
         "id": "process-based-parallelism-in-python",
         "title": "Process based parallelism in python",
         "description": "In this article we are going to dive deep and see how python achieves process based parallelism using the multiprocesing module and compare the results with the sequential execution",
         "cover": "https://user-images.githubusercontent.com/27894559/80276263-314df400-8705-11ea-8372-7d5f36dc4b7a.png",
         "gif": "https://media.giphy.com/media/3ohjUMKopips6jL99S/giphy.gif",
-        "authors": ["hodor"],
-        "topics": ["python"],
+        "authors": [
+            "hodor"
+        ],
+        "topics": [
+            "python"
+        ],
         "published_time": "2020-04-25T00:00:00.000Z"
     }
 ]
