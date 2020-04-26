@@ -12,7 +12,8 @@
             "algorithms",
             "databases"
         ],
-        "published_time": "2020-04-26T00:00:00.000Z"
+        "published_time": "2020-04-26T00:00:00.000Z",
+        "originalUrl": "https://arpitbhayani.me/blogs/mysql-cache"
     },
     {
         "id": "building-finite-state-machines-with-python-coroutines",
