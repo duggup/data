@@ -46,7 +46,7 @@
     },
     {
         "id": "solving-an-age-old-problem-using-bayesian-average",
-        "title": "Solving an age-old problem using Bayesian Average",
+        "title": "Ranking movies using Bayesian Average",
         "description": "Ranking a list of movies, products, books or even restaurants is tricky and in this article, we find what works for such a rating system and the math behind it.",
         "cover": "https://user-images.githubusercontent.com/4745789/79684359-3ebf3600-824e-11ea-97cc-0f06c2919aeb.png",
         "gif": "https://media.giphy.com/media/dJ4vNQ7r72pb4nDhN5/giphy.gif",
@@ -61,7 +61,7 @@
     },
     {
         "id": "sliding-window-based-rate-limiter",
-        "title": "Sliding window based Rate Limiter",
+        "title": "Designing a sliding window based rate limiter",
         "description": "A rate limiter is used to control the rate of traffic sent or received on the network and in this article we dive deep and design a sliding window based rate limiter.",
         "cover": "https://user-images.githubusercontent.com/4745789/78276848-3c13cf80-7531-11ea-8186-99cb1da58e50.png",
         "gif": "https://media.giphy.com/media/5YuhLwDgrgtRVwI7OY/giphy.gif",
@@ -76,7 +76,7 @@
     },
     {
         "id": "understanding-inverse-document-frequency",
-        "title": "Understanding Inverse Document Frequency",
+        "title": "All you need to know about Inverse Document Frequency",
         "description": "TF-IDF is extensively used in search engines and in various document classification and clustering techniques. Instead of taking the formula by the word, we take a detour and dive deep into the better half of it and find its connection with Probability, the role it plays in document relevance and the intuition behind it.",
         "cover": "https://user-images.githubusercontent.com/4745789/76207579-10e4db80-6224-11ea-91ba-b67359125156.png",
         "gif": "https://media.giphy.com/media/3ornjWIRSzXEw61KH6/giphy.gif",
