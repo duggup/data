@@ -1,10 +1,1 @@
-[
-    {
-        "id": "max-number",
-        "title": "Max number",
-        "description": "Find the max number out of 3",
-        "cover": "https://user-images.githubusercontent.com/4745789/77854795-fb067d00-7209-11ea-88f8-b70145b8c29b.png",
-        "published_time": "2020-05-03",
-        "content": "Find the max number out of k\n\n```c\nexample 1:\nnumbers: [1, 2, 3]\noutput: 3\n```\n"
-    }
-]
+[]
