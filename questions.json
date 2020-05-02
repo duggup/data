@@ -1,10 +1,10 @@
 [
     {
-        "id": "max-number",
-        "title": "Max number",
-        "description": "Find the max number out of 3",
-        "cover": "https://user-images.githubusercontent.com/4745789/77854795-fb067d00-7209-11ea-88f8-b70145b8c29b.png",
+        "id": "staircase-to-success",
+        "title": "Staircase to success",
+        "description": "You are N steps away from working in your dream company. You can either climb 1 step or 2 steps at a time. In how many distinct ways can you climb to the top where your Dream company is?",
+        "cover": "https://user-images.githubusercontent.com/4745789/80865905-bad36800-8ca9-11ea-86ee-7ed9c40c3ff4.png",
         "published_time": "2020-05-03",
-        "content": "Find the max number out of k\n\n```c\nexample 1:\nnumbers: [1, 2, 3]\noutput: 3\n```\n"
+        "hackerrank": "https://www.hackerrank.com/contests/duggup/challenges/staircase-to-success"
     }
 ]

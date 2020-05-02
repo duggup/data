@@ -1,0 +1,18 @@
+[
+    {
+        "id": "switchcase-challenge-02",
+        "title": "SwitchCase Challenge #02",
+        "description": "",
+        "cover": "https://user-images.githubusercontent.com/4745789/80866098-8c09c180-8caa-11ea-855a-2db7eebd71a5.png",
+        "starts_at": "2020-05-09T15:30:00.000Z",
+        "hackerrank": "https://www.hackerrank.com/duggup-switchcase-challenge-02"
+    },
+    {
+        "id": "switchcase-challenge-01",
+        "title": "SwitchCase Challenge #01",
+        "description": "",
+        "cover": "https://user-images.githubusercontent.com/4745789/80866098-8c09c180-8caa-11ea-855a-2db7eebd71a5.png",
+        "starts_at": "2020-05-03T09:30:00.000Z",
+        "hackerrank": "https://www.hackerrank.com/duggup-switchcase-challenge-01"
+    }
+]
