@@ -1,1 +1,10 @@
-[]
+[
+    {
+        "id": "switchcase-challenge-01",
+        "title": "SwitchCase Challenge #01",
+        "description": "",
+        "cover": "https://user-images.githubusercontent.com/4745789/77854795-fb067d00-7209-11ea-88f8-b70145b8c29b.png",
+        "starts_at": "2020-05-03T09:30:00.000Z",
+        "hackerrank": "https://www.hackerrank.com/duggup-switchcase-challenge-01"
+    }
+]
