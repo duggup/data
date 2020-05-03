@@ -1,8 +1,8 @@
 [
+    "copy-on-write-semantics",
     "what-makes-mysql-lru-cache-scan-resistant",
     "process-based-parallelism-in-python",
     "building-finite-state-machines-with-python-coroutines",
     "s.o.l.i.d-principles",
-    "solving-an-age-old-problem-using-bayesian-average",
-    "sliding-window-based-rate-limiter"
+    "solving-an-age-old-problem-using-bayesian-average"
 ]
