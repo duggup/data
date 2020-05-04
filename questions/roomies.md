@@ -4,7 +4,7 @@ The lock has `4` circular wheels. Each wheel has `10` slots: `0-9`. The wheel ca
 
 Given a target representing the value of the wheel that will unlock the lock, calculate the minimum total number of turns required to open the lock, or -1 if it's impossible.
 
-Input Format
+**Input Format**
 
  - the first line consists of single integer denoting the number of dead-ends `n`
  - next `n` lines have a string with length `4` denoting a dead-end state
