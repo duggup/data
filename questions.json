@@ -6,5 +6,29 @@
         "cover": "https://user-images.githubusercontent.com/4745789/80865905-bad36800-8ca9-11ea-86ee-7ed9c40c3ff4.png",
         "published_time": "2020-05-03",
         "hackerrank": "https://www.hackerrank.com/contests/duggup/challenges/staircase-to-success"
+    },
+    {
+        "id": "largest-family",
+        "title": "Largest Family",
+        "description": "Ravi has a dream to be a King. One of the rule in his kingdom will be that for a couple to name their kids they have to choose only from certain number of alphabets.",
+        "cover": "https://user-images.githubusercontent.com/4745789/80865905-bad36800-8ca9-11ea-86ee-7ed9c40c3ff4.png",
+        "published_time": "2020-05-03",
+        "hackerrank": "https://www.hackerrank.com/contests/duggup-switchcase-challenge-01/challenges/largest-family"
+    },
+    {
+        "id": "summation-of-primes-1",
+        "title": "Summation of Primes 1",
+        "description": "You will be given a range L and R(inclusive). Find the summation of all prime numbers in this range.",
+        "cover": "https://user-images.githubusercontent.com/4745789/80865905-bad36800-8ca9-11ea-86ee-7ed9c40c3ff4.png",
+        "published_time": "2020-05-03",
+        "hackerrank": "https://www.hackerrank.com/contests/duggup-switchcase-challenge-01/challenges/summation-of-primes-1-1"
+    },
+    {
+        "id": "roomies",
+        "title": "Roomies",
+        "description": "Sita and Gita are roomies. One of them always forgets to carry room's key and use to call the other for help. So, their friend Seema had a superb plan.",
+        "cover": "https://user-images.githubusercontent.com/4745789/80865905-bad36800-8ca9-11ea-86ee-7ed9c40c3ff4.png",
+        "published_time": "2020-05-03",
+        "hackerrank": "https://www.hackerrank.com/contests/duggup-switchcase-challenge-01/challenges/roomies"
     }
 ]
