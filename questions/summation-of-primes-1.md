@@ -1,37 +1,39 @@
-You will be given a range L and R(inclusive). Find the summation of all prime numbers in this range.
+You will be given a range `L` and `R` (both inclusive). Find the summation of all prime numbers in this range.
 
-Input Format
+**Input Format**
 
-First line contains a single integer Q
+ - First line contains a single integer `Q`
+ - Next `Q` lines contain two integers `L` and `R` respectively.
 
-Next Q lines contains two integer L and R respectively.
+**Constraints**
 
-Constraints
+ - `Q` <= `100`
+ - `1` <= `L`, `R` <= `1000000`
+ - `L < R`
 
-Q<=100
+**Output Format**
 
-1<=L,R<=1000000
+A single integer denotes the sum of prime numbers on every line.
 
-L < R
-
-Output Format
-
-A single integer denotes sum of prime numbers on every line.
-
-Sample Input 0
-
+**Sample Input**
+```
 2
 1 9
 4 13
+```
 
-Sample Output 0
-
+**Sample Output**
+```
 17
 36
+```
 
-Explanation 0
+**Explanation**
 
-2+3+5+7=17 5+7+11+13=36
+```
+2 + 3 + 5 + 7 = 17
+5 + 7 + 11 + 13 = 36
+```
 
 ---
 

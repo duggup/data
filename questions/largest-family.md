@@ -1,4 +1,4 @@
-Ravi has a dream to be a King. One of the rules in his kingdom will be that for a couple to name their kids they have to choose only from a certain number of alphabets. So, if a couple chooses `a`, `b` and `c` alphabets their children's names can be `abc`, `acb`, `cab`, etc. These sets of alphabets are unique for every couple. You being a minister in Ravi's ministry has the task to find out the size of the largest family in the kingdom.
+Ravi has a dream to be a King. One of the rules in his kingdom will be that for a couple to name their kids they have to choose only from a certain number of alphabets. So, if a couple chooses `a`, `b`, and `c` alphabets their children's names can be `abc`, `acb`, `cab`, etc. These sets of alphabets are unique for every couple. You being a minister in Ravi's ministry has the task to find out the size of the largest family in the kingdom.
 
 **Input Format**
  - First line contains `N` i.e. Number of children in kingdom.
@@ -33,7 +33,7 @@ rst
 
 **Explanation**
 
-`abc` and `cab` belongs to same family.
+`abc` and `cab` belongs to the same family.
 
 ---
 

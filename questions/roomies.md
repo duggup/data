@@ -12,7 +12,7 @@ Given a target representing the value of the wheel that will unlock the lock, ca
 
 **Constraints**
 
-Number of deadends <= `10`
+Number of deadends `n` <= `10`
 
 **Output Format**
 
