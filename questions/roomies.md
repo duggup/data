@@ -1,27 +1,26 @@
-Sita and Gita are roomies. One of them always forgets to carry room's key and use to call the other for help. So, their friend Seema had a superb plan. A lock with pin. Sita and Gita goes to buy a new lock, but not a normal lock.
+Sita and Gita are roomies. One of them always forgets to carry the room's key and use it to call the other for help. So, their friend Seema had a superb plan. A lock with a pin. Sita and Gita go to buy a new lock, but not a normal lock.
 
-Lock has 4 circular wheels. Each wheel has 10 slots: 0-9. The wheel can rotate freely and wrap around(9->0 and 9<-0). Each move consists of turning one wheel one slot. Initially lock starts at '0000', a string representing the state of 4 wheels. The lock has few deadends, which means if lock displays any of these codes, the wheels of the lock will stop turning and you will be unable to open it.
+The lock has `4` circular wheels. Each wheel has `10` slots: `0-9`. The wheel can rotate freely and wrap around(`9 -> 0` and `9 <- 0`). Each move consists of turning one wheel one slot. Initially, lock starts at `0000`, a string representing the state of `4` wheels. The lock has few dead ends, which means if lock displays any of these codes, the wheels of the lock will stop turning and you will be unable to open it.
 
-Given a target representing the value of the wheel that will unlock the lock, calculate minimum total number of turns required to open the lock,or -1 if its impossible.
+Given a target representing the value of the wheel that will unlock the lock, calculate the minimum total number of turns required to open the lock, or -1 if it's impossible.
 
 Input Format
 
-first line consists of single integer denoting number of deadends n
+ - the first line consists of single integer denoting the number of dead-ends `n`
+ - next `n` lines have a string with length `4` denoting a dead-end state
+ - the last line has a string with length `4` denoting pin to open the lock.
 
-next n lines have a string with length 4 denoting a deadend state
+**Constraints**
 
-last line has a string with length 4 denoting pin to open lock.
+Number of deadends <= `10`
 
-Constraints
+**Output Format**
 
-Number of deadends <= 10
+A single integer denoting the number of movements.
 
-Output Format
+**Sample Input**
 
-single integer denoting number of movements.
-
-Sample Input 0
-
+```
 5
 0201
 0101
@@ -29,14 +28,19 @@ Sample Input 0
 1212
 2002
 0202
+```
 
-Sample Output 0
+**Sample Output**
 
+```
 6
+```
 
-Explanation 0
+**Explanation**
 
-0000->1000->1100->1200->1201->1202->0202
+```
+0000 -> 1000 -> 1100 -> 1200 -> 1201 -> 1202 -> 0202
+```
 
 ---
 
