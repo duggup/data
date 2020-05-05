@@ -26,7 +26,3 @@ Since you can only take `1` or `2` steps at a time you can reach the top i.e. 2 
  - Take 2 steps directly and reach the top 
 
 Hence the output `2`.
-
----
-
-> Solution to this Question will be made available on the 10th of May 2020.
