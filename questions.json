@@ -1,5 +1,13 @@
 [
     {
+        "id": "largest-area",
+        "title": "Largest Area",
+        "description": "Given N non-negative integers representing the histogram's bar height where the width of each bar is 1. Find the area of the largest rectangle in the histogram.",
+        "cover": "https://user-images.githubusercontent.com/4745789/80865905-bad36800-8ca9-11ea-86ee-7ed9c40c3ff4.png",
+        "published_time": "2020-05-10",
+        "hackerrank": "https://www.hackerrank.com/contests/duggup/challenges/largest-area-1"
+    },
+    {
         "id": "staircase-to-success",
         "title": "Staircase to success",
         "description": "You are N steps away from working in your dream company. You can either climb 1 step or 2 steps at a time. In how many distinct ways can you climb to the top where your Dream company is?",
