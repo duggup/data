@@ -5,7 +5,7 @@
         "description": "a measure of relevance",
         "cover": "https://user-images.githubusercontent.com/4745789/81474865-cbde2500-9225-11ea-9ef1-ea6276524c7e.png",
         "published_time": "2020-05-10",
-        "content": "TF-IDF is a numerical statistic that reflects how important a word is to a document in a collection. The score is a product of term frequency and inverse document frequency.\n\nThis measure is popularly used in search engines to rank the retrieved documents.\n\n![tfidf](https://user-images.githubusercontent.com/4745789/81474983-bc131080-9226-11ea-8410-0712bc6d314c.png)"
+        "content": "TF-IDF is a numerical statistic that reflects how important a word is to a document in a collection. The score is a product of term frequency and inverse document frequency.\n\nThis measure is popularly used in search engines to rank the retrieved documents."
     },
     {
         "id": "bloom-filter",
