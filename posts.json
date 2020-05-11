@@ -1,5 +1,19 @@
 [
     {
+        "id": "fractional-cascading-speeding-up-binary-searches",
+        "title": "Fractional Cascading - Speeding up Binary Searches",
+        "description": "The performance of binary search when applied on k lists independently can be improved using bridges and the technique is called Fractional Cascading. Fractional Cascading also sees its application in Geometric Data Structures, Segment Trees, and Databases.",
+        "cover": "https://user-images.githubusercontent.com/4745789/81494077-8112ea80-92c3-11ea-9416-bb2422334744.png",
+        "gif": "https://media.giphy.com/media/1k5k3J5K3BywQOrpNA/giphy.gif",
+        "authors": [
+            "arpit_bhayani"
+        ],
+        "topics": [
+            "algorithms"
+        ],
+        "published_time": "2020-05-10"
+    },
+    {
         "id": "copy-on-write-semantics",
         "title": "Copy-on-Write Semantics",
         "description": "Copy-on-write is used to model Time Travel, build databases with no locks, and makes the fork system call super-efficient.",
