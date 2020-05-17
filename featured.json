@@ -4,6 +4,7 @@
         "copy-on-write-semantics",
         "what-makes-mysql-lru-cache-scan-resistant",
         "process-based-parallelism-in-python",
-        "building-finite-state-machines-with-python-coroutines"
+        "building-finite-state-machines-with-python-coroutines",
+        "s.o.l.i.d-principles"
     ]
 }
