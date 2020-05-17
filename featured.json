@@ -1,7 +1,7 @@
 {
     "posts": [
-        "fractional-cascading-speeding-up-binary-searches",
         "copy-on-write-semantics",
+        "fractional-cascading-speeding-up-binary-searches",
         "what-makes-mysql-lru-cache-scan-resistant",
         "process-based-parallelism-in-python",
         "building-finite-state-machines-with-python-coroutines",
