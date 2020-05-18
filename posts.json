@@ -1,5 +1,19 @@
 [
     {
+        "id": "python-caches-integers",
+        "title": "Python Caches Integers",
+        "description": "To gain a performance boost and avoid reallocation of frequently used integers, Python creates singleton instances of small integer values and uses them by reference.",
+        "cover": "https://user-images.githubusercontent.com/4745789/82141979-a620d380-9856-11ea-9a4a-32399c0c01b8.png",
+        "gif": "https://media.giphy.com/media/l378kmO7gdbXaesXS/giphy.gif",
+        "authors": [
+            "arpit_bhayani"
+        ],
+        "topics": [
+            "python"
+        ],
+        "published_time": "2020-05-17"
+    },
+    {
         "id": "fractional-cascading-speeding-up-binary-searches",
         "title": "Fractional Cascading - Speeding up Binary Searches",
         "description": "The performance of binary search when applied on k lists independently can be improved using bridges and the technique is called Fractional Cascading. Fractional Cascading also sees its application in Geometric Data Structures, Segment Trees, and Databases.",
