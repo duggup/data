@@ -11,6 +11,20 @@
         "topics": [
             "algorithms"
         ],
+        "published_time": "2020-05-31"
+    },
+    {
+        "id": "rum",
+        "title": "The RUM Conjecture",
+        "description": "While designing any storage system the three main aspects we optimize for are Reads, Updates, and auxiliary Memory. RUM Conjecture states that these three form a competing triangle and we could only optimize two at the expense of the third.",
+        "cover": "https://user-images.githubusercontent.com/4745789/83344735-64009300-a328-11ea-858a-587d440136f1.png",
+        "gif": "https://media.giphy.com/media/1n7B7bJ917pqZGHG9m/giphy.gif",
+        "authors": [
+            "arpit_bhayani"
+        ],
+        "topics": [
+            "software-engineering"
+        ],
         "published_time": "2020-05-24"
     },
     {
