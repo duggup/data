@@ -2,6 +2,7 @@
     "posts": [
         "building-finite-state-machines-with-python-coroutines",
         "implementing-function-overloading-in-python",
-        "how-python-implements-super-long-integers"
+        "how-python-implements-super-long-integers",
+        "python-iterable-integers"
     ]
 }
