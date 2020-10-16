@@ -1,5 +1,19 @@
 [
     {
+        "id": "python-iterable-integers",
+        "title": "Making Python Integers Iterable",
+        "description": "In Python, Integers are not iterables but we can make them iterable by implementing __iter__ function. In this essay, we change Python's source code and implement iter function for integers.",
+        "cover": "https://user-images.githubusercontent.com/4745789/84585100-bf06af80-ae29-11ea-8797-16c70aee5cc4.png",
+        "gif": "https://media.giphy.com/media/k4ta29T68xlfi/giphy.gif",
+        "authors": [
+            "arpit_bhayani"
+        ],
+        "topics": [
+            "python"
+        ],
+        "published_time": "2020-06-14"
+    },
+    {
         "id": "inheritance-c",
         "title": "Powering inheritance in C using structure composition",
         "description": "C language does not support inheritance however it does support Structure Compositions which can be tweaked to serve use-cases requiring parent-child relationships. In this article we find out how Structure Compositions help us emulate inheritance in C and keep our code extensible. We will also find how it powers two of the most important things to have ever been invented in the field of computer science.",
