@@ -1,6 +1,7 @@
 {
     "posts": [
         "pseudorandom-numbers-using-cellular-automata-rule-30",
-        "isolation-forest-algorithm-for-anomaly-detection"
+        "isolation-forest-algorithm-for-anomaly-detection",
+        "consistent-hashing"
     ]
 }
