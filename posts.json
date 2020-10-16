@@ -1,17 +1,45 @@
 [
     {
-        "id": "python-iterable-integers",
-        "title": "Making Python Integers Iterable",
-        "description": "In Python, Integers are not iterables but we can make them iterable by implementing __iter__ function. In this essay, we change Python's source code and implement iter function for integers.",
-        "cover": "https://user-images.githubusercontent.com/4745789/84585100-bf06af80-ae29-11ea-8797-16c70aee5cc4.png",
-        "gif": "https://media.giphy.com/media/k4ta29T68xlfi/giphy.gif",
+        "id": "inheritance-c",
+        "title": "Powering inheritance in C using structure composition",
+        "description": "C language does not support inheritance however it does support Structure Compositions which can be tweaked to serve use-cases requiring parent-child relationships. In this article we find out how Structure Compositions help us emulate inheritance in C and keep our code extensible. We will also find how it powers two of the most important things to have ever been invented in the field of computer science.",
+        "cover": "https://user-images.githubusercontent.com/4745789/83960768-2bbdff00-a8aa-11ea-9e82-16b928d2a244.png",
+        "gif": "https://media.giphy.com/media/3o6Mbk7C7HVuhyqX3G/giphy.gif",
         "authors": [
             "arpit_bhayani"
         ],
         "topics": [
-            "python"
+            "software-engineering"
         ],
-        "published_time": "2020-06-14"
+        "published_time": "2020-06-07"
+    },
+    {
+        "id": "consistent-hashing",
+        "title": "Consistent Hashing",
+        "description": "Consistent Hashing is one of the most sought after techniques when it comes to designing highly scalable distributed systems. In this article, we dive deep into the need for Consistent Hashing, the internals of it, and more importantly along the way implement it using arrays and binary search.",
+        "cover": "https://user-images.githubusercontent.com/4745789/82760647-92efa400-9e12-11ea-9533-5003bc3c46df.png",
+        "gif": "https://media.giphy.com/media/3ofSBqzxwsiN0npCak/giphy.gif",
+        "authors": [
+            "arpit_bhayani"
+        ],
+        "topics": [
+            "algorithms"
+        ],
+        "published_time": "2020-05-31"
+    },
+    {
+        "id": "rum",
+        "title": "The RUM Conjecture",
+        "description": "While designing any storage system the three main aspects we optimize for are Reads, Updates, and auxiliary Memory. RUM Conjecture states that these three form a competing triangle and we could only optimize two at the expense of the third.",
+        "cover": "https://user-images.githubusercontent.com/4745789/83344735-64009300-a328-11ea-858a-587d440136f1.png",
+        "gif": "https://media.giphy.com/media/1n7B7bJ917pqZGHG9m/giphy.gif",
+        "authors": [
+            "arpit_bhayani"
+        ],
+        "topics": [
+            "software-engineering"
+        ],
+        "published_time": "2020-05-24"
     },
     {
         "id": "python-caches-integers",
